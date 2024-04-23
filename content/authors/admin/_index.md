@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Marco Baldo
+title: Marco Baldo
 
 # Full name (for SEO)
 first_name: Marco
