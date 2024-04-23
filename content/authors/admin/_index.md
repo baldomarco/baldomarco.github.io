@@ -1,55 +1,63 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr.
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Marco
+last_name: Baldo
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌍
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PH.D. Candidate in Global Change Forestry
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Czech University of Life Sciences Prague
+    url: https://www.fld.czu.cz/en/r-9413-departments
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research interests include modelling forest dynamics, ecosystem ecology and vegetation science.
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Biodiversity metrics
+  - Ecosystem ecology
+  - Forest dynamics
+  - Process-based models
+  - Remote sensing
+  - Vegetation science
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Global Change Forestry (ENG)
+      institution: Czech University of Life Sciences Prague
+      topic: Modelling management effects on Central European forest resilience
+      year: 2024
+    - course: M.Sc. in Global Change Ecology and Sustainable Development Goals (ENG)
+      institution: Alma Mater Studiornum - University of Bologna
+      topic: Remote sensing analysis on dynamics of forest structure
+      year: 2021
+    - course: B.Sc. in Environmental Science (ITA)
+      institution: University of L'Aquila
+      topic: Remote sensing analysis on primary productivity and forest cover
+      year: 2017
+      - course: B.Sc. in Natural Science (ITA)
+      institution: University of Rome - La Sapienza
+      year: 2013
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Project manager
     items:
       - name: Python
         description: ''
@@ -96,25 +104,24 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/baldo_marco_
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-schola
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=xtjct8YAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/baldomarco
+  - icon: orcid
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://orcid.org/0000-0002-6689-6933
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  - icon: Pubblications
+    link: https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17194
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
