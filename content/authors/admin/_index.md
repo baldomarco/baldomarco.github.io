@@ -50,9 +50,6 @@ education:
       institution: University of L'Aquila
       topic: Remote sensing analysis on primary productivity and forest cover
       year: 2017
-      - course: B.Sc. in Natural Science (ITA)
-      institution: University of Rome - La Sapienza
-      year: 2013
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
