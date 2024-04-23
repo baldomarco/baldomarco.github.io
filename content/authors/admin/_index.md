@@ -105,7 +105,7 @@ social:
       header: true
   - icon: google-scholar
     icon_pack: fab
-    link: [[https://scholar.google.com/citations?user=xtjct8YAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=xtjct8YAAAAJ&hl=en&oi=ao)](https://scholar.google.com/citations?user=xtjct8YAAAAJ&hl=en)
+    link: https://scholar.google.com/citations?user=xtjct8YAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/baldomarco
