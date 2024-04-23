@@ -124,4 +124,3 @@ highlight_name: true
 
 My research interests include modelling forest dynamics, ecosystem ecology and vegetation science.
 
-{style="text-align: justify;"}
