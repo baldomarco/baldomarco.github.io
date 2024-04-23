@@ -103,7 +103,7 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: google-browser-svgrepo-com
+  - icon: google-scholar
     icon_pack: fab
     link: https://scholar.google.com/citations?user=xtjct8YAAAAJ&hl=en&oi=ao
   - icon: github
