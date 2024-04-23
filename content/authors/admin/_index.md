@@ -103,7 +103,7 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: google-schola
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=xtjct8YAAAAJ&hl=en&oi=ao
   - icon: github
