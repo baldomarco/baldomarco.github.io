@@ -122,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-My research interests include modelling forest dynamics, ecosystem ecology and vegetation science.
+My current research area is focused on forest dynamic models, ecosystem ecology and vegetation science.
 
